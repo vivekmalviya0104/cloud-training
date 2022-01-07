@@ -1,4 +1,4 @@
-# AEM WKND Sites Project For Cloud Traning 1
+# AEM WKND Sites Project For Cloud Traning 123
 
 ![Maven CI](https://github.com/adobe/aem-guides-wknd/actions/workflows/maven.yml/badge.svg)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem.guides/aem-guides-wknd/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem.guides/aem-guides-wknd)
